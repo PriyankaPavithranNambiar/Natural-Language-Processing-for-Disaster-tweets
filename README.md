@@ -1,4 +1,4 @@
-# II.-Natural-Language-Processing-for-Disaster-tweets
+# Natural-Language-Processing-for-Disaster-tweets
 Classification of tweets indicating Disasters from non-disasters 
 
 * A machine learning model (in Python) that predicts which Tweets are about real disasters and which ones aren’t. 
