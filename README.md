@@ -3,5 +3,5 @@ Classification of tweets indicating Disasters from non-disasters
 
 PYTHON SCRIPT-
 I   EXPLORATORY DATA ANALYSIS
-II  VECTORIZATION USING GLOVE
+II  WORD EMBEDDINGS USING GLOVE
 III PREDICTIVE MODELLING- Logistic Regression, KNN, XGBoost, Decision Trees, Voting Classification
